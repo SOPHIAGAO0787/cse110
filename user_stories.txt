@@ -1,0 +1,9 @@
+As a user, I want to sell lemonade, so that I can earn money.
+
+User initialization: I would like to see my initial budget and storage so that I can know how many can I use.
+
+Inventory Management: I want to buy lemonade, sugar, cup and raw materials required to make lemonade.
+
+Business Operations:I'd also like to set the price for the lemonade and run the business, 
+
+Account Book: I'd like to see the profit/loss report at the end of everyday in case to adjust my strategies for tomorrow.
