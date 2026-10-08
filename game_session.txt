@@ -1,0 +1,28 @@
+Typical game session
+====================
+Build: npm.cmd run build
+Play:  npm.cmd start
+
+Lemonade Stand
+Recipe per cup: 1 cup, 2 ice, 1 lemon, 2 sugar.
+Starting cash: $50.00. Enter q at the start of a day to quit.
+
+Day 1: Cool weather
+Cash: $50.00 | Inventory: cups 0, ice 0, lemons 0, sugar 0
+Supply prices: cups $0.10, ice $0.05, lemons $0.30, sugar $0.08 each
+Press Enter to shop, or q to quit: [Enter]
+Buy how many cups? 10
+Buy how many ice? 20
+Buy how many lemons? 10
+Buy how many sugar? 20
+Spent $6.60. Cash left: $43.40.
+Selling price per cup ($): 2.00
+Sold 8 cups for $16.00 revenue.
+Supplies left: cups 2, ice 4, lemons 2, sugar 4.
+Cash balance: $59.40.
+
+Day 2: Warm weather
+Cash: $59.40 | Inventory: cups 2, ice 4, lemons 2, sugar 4
+Supply prices: cups $0.12, ice $0.06, lemons $0.25, sugar $0.09 each
+Press Enter to shop, or q to quit: q
+Game over. Final cash: $59.40.
