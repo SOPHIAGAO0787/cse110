@@ -1,9 +1,4 @@
-As a user, I want to sell lemonade, so that I can earn money.
-
-User initialization: I would like to see my initial budget and storage so that I can know how many can I use.
-
-Inventory Management: I want to buy lemonade, sugar, cup and raw materials required to make lemonade.
-
-Business Operations:I'd also like to set the price for the lemonade and run the business, 
-
-Account Book: I'd like to see the profit/loss report at the end of everyday in case to adjust my strategies for tomorrow.
+1. As a player, I want to see my cash, inventory, weather, and supply prices each day so I can plan my purchases.
+2. As a player, I want to buy cups, ice, lemons, and sugar within my budget so I can make lemonade.
+3. As a player, I want to set a selling price and run one day so I can see how weather and price affect sales.
+4. As a player, I want to see cups sold, remaining supplies, and cash after each day so I can decide what to do next.
